@@ -1,0 +1,2 @@
+# sistema-banco
+Este projeto foi concebido com o propósito de desenvolver um sistema de banco, visando aprimorar habilidades em conceitos formais como: structs, referências, funções com múltiplos retornos, funções sem retornos, composição, divisão do projeto em pacotes, encapsulamento e interface. Através desse projeto, busca-se aprofundar o conhecimento nessas áreas, aplicando boas práticas de desenvolvimento de software e promovendo a construção de um sistema de qualidade e robustez.
